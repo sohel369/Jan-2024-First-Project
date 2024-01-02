@@ -55,6 +55,7 @@ body {
 }
 .content {
     margin-bottom: 20%;
+    padding-top: 80px;
 }
 .content h1{
     font-size: 60px;
